@@ -1,0 +1,26 @@
+# Node.js dependencies
+node_modules/
+
+# Build outputs
+build/
+dist/
+
+# Logs
+*.log
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Editor and IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.swp
+
+# Lock files (optional, only add if you want to ignore them)
+package-lock.json
+yarn.lock
